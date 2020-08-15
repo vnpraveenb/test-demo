@@ -1,0 +1,14 @@
+hsperfdata_root
+ks-script-e6xup746
+ks-script-x6rh9wdx
+lua_saAzwq
+systemd-private-ed20179c078745a0b8583ecc7bd3d3d6-bolt.service-w5Fimv
+systemd-private-ed20179c078745a0b8583ecc7bd3d3d6-chronyd.service-C5KAo6
+systemd-private-ed20179c078745a0b8583ecc7bd3d3d6-colord.service-0SJEM2
+systemd-private-ed20179c078745a0b8583ecc7bd3d3d6-fwupd.service-uXepcA
+systemd-private-ed20179c078745a0b8583ecc7bd3d3d6-ModemManager.service-DLMGnh
+systemd-private-ed20179c078745a0b8583ecc7bd3d3d6-rtkit-daemon.service-fSiTQV
+tracker-extract-files.1000
+VMwareDnD
+vmware-root_1025-4281777827
+vmware-root_30125-3980378320
